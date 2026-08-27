@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Computer Engineering student at University National of Jujuy (UNJU), currently in my third year. I am passionate about technology and innovation.
 <!--
 **GonzaCarrillo/GonzaCarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
