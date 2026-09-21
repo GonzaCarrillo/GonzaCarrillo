@@ -30,10 +30,4 @@ Estudiante de Ingeniería Informática, actualmente trabajando la arquitectura d
 `Git` • `GitHub` • `Docker` • `Linux (Mint / CLI)` • `Bash`
 
 ---
-
-### 📫 ¿Cómo contactarme?
-- **LinkedIn:** https://www.linkedin.com/in/gonzalo-carrillo-566033265/
-- **Email:** gonzalocarrillo877@gmail.com
-
----
 *“El universo (que otros llaman la Biblioteca) se compone de un número indefinido, y tal vez infinito, de galerías hexagonales...”* La biblioteca de Babel, Borges.
