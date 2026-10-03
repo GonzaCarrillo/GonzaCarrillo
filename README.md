@@ -30,4 +30,9 @@ Estudiante de Ingeniería Informática, actualmente trabajando la arquitectura d
 `Git` • `GitHub` • `Docker` • `Linux (Mint / CLI)` • `Bash`
 
 ---
-*“El universo (que otros llaman la Biblioteca) se compone de un número indefinido, y tal vez infinito, de galerías hexagonales...”* La biblioteca de Babel, Borges.
+⚡ Sobre mí
+🏃‍♂️ Actividades: Me gusta hacer deportes como futbol, basquetball, salir a correr, y hacer calistenia.
+🤖 Pasatiempos: Me gusta mucho la lectura. Fanático de Jorge Luis Borges y Juan Carlos Onetti. También me gusta leer filosofía. 
+🎧 Música: Me gusta la cumbia y el rock argentino. 
+*“Me gustaría escribir la historia de un alma, de ella sola, sin los sucesos en que tuvo que mezclarse, queriendo o no”* Juan Carlos Onetti, El Pozo. 
+*“Dios mueve al jugador, y éste, la pieza. ¿Qué dios detrás de dios la trama empieza?", El hacedor, Jorge Luis Borges* 
