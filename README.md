@@ -27,7 +27,7 @@ Estudiante de Ingeniería Informática, actualmente trabajando en la arquitectur
 
 ### ⚡ Sobre mí
 - **Actividades:** Me gusta hacer deporte: fútbol, básquetbol, salir a correr y calistenia.
-- **Pasatiempos:** Lector apasionado de literatura y filosofía, con especial admiración por la obra de Jorge Luis Borges y Juan Carlos Onetti.
+- **Pasatiempos:** Disfruto de la lectura. Me gusta la literatura y filosofía, mis autores favoritos son Jorge Luis Borges y Juan Carlos Onetti.
 - **Música:** Cumbia y rock argentino.
 
 > *“Me gustaría escribir la historia de un alma, de ella sola, sin los sucesos en que tuvo que mezclarse, queriendo o no”*  
