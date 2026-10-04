@@ -25,7 +25,8 @@ Estudiante de Ingeniería Informática, actualmente trabajando en la arquitectur
 
 ---
 
-### ⚡ Sobre mí
+### ⚡ Sobre 
+- **Hincha de Boca a muerte.**
 - **Actividades:** Me gusta hacer deporte: fútbol, básquetbol, salir a correr y calistenia.
 - **Pasatiempos:** Disfruto de la lectura. Me gusta la literatura y filosofía, mis autores favoritos son Jorge Luis Borges y Juan Carlos Onetti.
 - **Música:** Cumbia y rock argentino.
