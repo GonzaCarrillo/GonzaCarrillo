@@ -26,12 +26,12 @@ Estudiante de Ingeniería Informática, actualmente trabajando en la arquitectur
 ---
 
 ### ⚡ Sobre 
-- **Hincha de Boca a muerte.**
+- **Hincha de Boca Juniors a muerte.**
 - **Actividades:** Me gusta hacer deporte: fútbol, básquetbol, salir a correr y calistenia.
 - **Pasatiempos:** Disfruto de la lectura. Me gusta la literatura y filosofía, mis autores favoritos son Jorge Luis Borges y Juan Carlos Onetti.
 - **Música:** Cumbia y rock argentino.
 
-> *“Me gustaría escribir la historia de un alma, de ella sola, sin los sucesos en que tuvo que mezclarse, queriendo o no”*  
+> *“El amor es maravilloso y absurdo e, incomprensiblemente, visita a cualquier clase de almas. Pero la gente absurda y maravillosa no abunda; y las que lo son, es por poco tiempo, en la primera juventud. Después comienzan a aceptar y se pierden.”*  
 > — **Juan Carlos Onetti**, *El Pozo*
 
 > *“Dios mueve al jugador, y éste, la pieza.  
